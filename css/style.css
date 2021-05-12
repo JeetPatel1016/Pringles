@@ -2,6 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Roboto:wght@300;400;500;700&display=swap');
 /*Utility classes*/
+html {
+    scroll-behaviour: smooth;
+}
 .pad-0 {
     padding:0;
 }
